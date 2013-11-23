@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-App::Application.config.secret_key_base = '10a24386c6f55d2eb9c5eff83c11aeebe89dd900d9566cfce3454a25bf9bdcae1eb8901f2b678b020c7d429925184e74102e1cb4c1c5b4956a4031fb3dc733b9'
+Hola::Application.config.secret_key_base = '48f09722c26e1f98884e2d2da3c3446eae1a87056d93ce8a85e333db512743dc8cd17f10f8237e9c92bd88c421fbf5de5100ef12ac69dc602899aa2281cc00f2'

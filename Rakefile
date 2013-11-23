@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-App::Application.load_tasks
+Hola::Application.load_tasks
